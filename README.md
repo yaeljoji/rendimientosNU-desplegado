@@ -1,4 +1,4 @@
-﻿# CalculadorNu 3.0!
+﻿# CalculadorNu 3.0! (Versión desplegada en Cloudflare Pages)
 ![enter image description here](https://i.ibb.co/hf1MxTv/nu3-0.png)
 
 Mi nombre es **Sergio Yael**. Creador de CalculadorNu, decidí hacer público el código para dar mayor confianza a las personas que usan esta herramienta y permitir a otros desarrolladores a ayudarme a corregir errores.
